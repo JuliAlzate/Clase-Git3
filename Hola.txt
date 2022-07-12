@@ -1,2 +1,3 @@
 modifico el archivo que estamos realizando en clase Julian Alzate
 Este es nuestro curso de desarrollo de software - Daniel Cuaical
+Esta es la modificacion realizada por mi en el proyecto - Richard Angarita
