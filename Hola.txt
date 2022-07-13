@@ -17,3 +17,4 @@ agregando una nueva linea - Richard
         <title>Mi portafolio</title>
         <link rel="stylesheet" href="css/style-desktop.css">
 </head>
+este es mi aporte - Daniel Cuaical
