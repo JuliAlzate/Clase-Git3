@@ -1,4 +1,5 @@
 modifico el archivo que estamos realizando en clase Julian Alzate
+<h1> creo mi primer h1 el cual sirve para poner un titulo</h1>
 Este es nuestro curso de desarrollo de software - Daniel Cuaical
 Esta es la modificacion realizada por mi en el proyecto - Richard Angarita
 mi segunda modificación - Richard Angarita
