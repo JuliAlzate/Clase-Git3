@@ -6,3 +6,6 @@ mi segunda modificación - Richard Angarita
 tercera modificación  - Richard Angarita
 Cuarta modificación en esta linea - Richard Angarita
 <h2>agregando codigo html al ejercicio julian alzate</h2>
+Agregando otra linea para visuar el error de cambio en la misma linea - Richard Angarita
+agregando una nueva linea - Richard
+
