@@ -24,3 +24,36 @@ for( int i=0; i<10;i++ ){
         esta linea es creada para comprobar los comandos 
 }
 este es mi aporte - Daniel Cuaical
+
+ public ArrayList<Integer> noTengo(ArrayList<Integer> ObrasMuseoA, ArrayList<Integer> ObrasMuseoB) {
+        this.ObrasMuseoA = ObrasMuseoA;
+        this.ObrasMuseoB = ObrasMuseoB;
+        ArrayList<Integer> ObrasInteresanMuseoB = new ArrayList<>();
+
+        for (Integer Ob : ObrasMuseoA) {
+
+            if (!ObrasMuseoB.contains(Ob)) {
+                ObrasInteresanMuseoB.add(Ob);
+            }
+        }
+
+        return ObrasInteresanMuseoB;
+    }
+ ArrayList<Integer> duplicadosMuseoA = new ArrayList<>();
+ ArrayList<Integer> duplicadosMuseoB = new ArrayList<>();
+ 
+    public int puedoCambiar(ArrayList<Integer> duplicadosMuseoA,ArrayList<Integer> duplicadosMuseoB) {
+
+      ArrayList<Integer> obrasPuedenCambiar = new ArrayList<>();
+      this.duplicadosMuseoA=duplicadosMuseoA;
+      this.duplicadosMuseoB=duplicadosMuseoB;
+      
+        for (Integer duplicadosMuseoA1 : duplicadosMuseoA) {
+            if (duplicadosMuseoB.contains(duplicadosMuseoA1)) {
+                obrasPuedenCambiar.add(duplicadosMuseoA1);
+               
+            }
+        }
+        return obrasPuedenCambiar.size();
+    }
+
