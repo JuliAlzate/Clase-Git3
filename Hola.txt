@@ -17,3 +17,9 @@ agregando una nueva linea - Richard
         <title>Mi portafolio</title>
         <link rel="stylesheet" href="css/style-desktop.css">
 </head>
+ 
+
+for( int i=0; i<10;i++ ){
+
+        esta linea es creada para comprobar los comandos 
+}
